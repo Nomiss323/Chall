@@ -1,0 +1,43 @@
+body {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Outfit';
+    background-color:#d5e1ef;
+    text-align: center;
+
+}
+ 
+#box {
+    background-color: white;
+    padding: 20px;
+    height: 500px;
+    width: 300px;
+    border-radius: 5%;
+
+}
+
+#container img {
+
+    max-width: 100%;
+    height: auto;
+    border-radius: 5%;
+
+}
+ 
+h2 {
+    font-weight: 700;
+}
+h4 {
+    color: grey;
+    font-weight: 400;
+}
+
+.lst {
+    margin-top: 100px;
+    
+}
